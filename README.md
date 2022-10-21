@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Data Science and Machine Learning**
 
-- 💬 Ask me about **Competitve Programming, Data Science and Machine Learning**
+- 💬 Ask me about **Competitve Programming, Data Science and Machine Learning, JavaScript and Python**
 
 
 
